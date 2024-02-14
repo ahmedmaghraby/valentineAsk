@@ -35,7 +35,7 @@ export default function AutoInvest() {
                 toggelanswer(true)
               }}
             >
-              {t('Yes')}
+              {t('yes')}
             </Button>
             <Button
               btnType="danger"
