@@ -1,7 +1,10 @@
 import Header from './Header'
+import usePresistInit from '@/hooks/usePresistInit'
 import type { DefaultLayoutProps } from '@/type/PropsType'
 
 function DefaultLayout({ children }: DefaultLayoutProps) {
+  usePresistInit()
+
   return (
     <div className="dark:bg-boxdark-2 dark:text-bodydark ">
       <div className="flex h-screen overflow-hidden">

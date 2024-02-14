@@ -18,7 +18,7 @@ export default function AutoInvest() {
         src={
           isYesBefore
             ? 'https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif'
-            : 'https://i.pinimg.com/originals/c5/0a/c9/c50ac977b8a89140fc3f7bcb1a05e146.gif'
+            : '/1.gif'
         }
       />
       {isYesBefore ? (
