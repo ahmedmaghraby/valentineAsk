@@ -1,0 +1,24 @@
+{
+  "translation": {
+    "lang": "عربي",
+    "reasonLis": {
+      "1": "No",
+      "2": "Are you sure?",
+      "3": "Really sure?",
+      "4": "Are you positive???",
+      "5": "Pookie please",
+      "6": "Just think about it",
+      "7": "If you say no, I'll be very sad",
+      "8": "I'll be very very sad",
+      "9": "I'll be very very very sad",
+      "10": "I'll be very very very very sad",
+      "11": "Ok fine, I'll stop asking...",
+      "12": "Just kidding, PLEASE SAY YES",
+      "13": "I'll be very very very very very sad",
+      "14": "You're breaking my heart ;(",
+      "15": "Last word"
+    },
+    "yes": "yes",
+    "yesText": "yay Okay!!!"
+  }
+}
