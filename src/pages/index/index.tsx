@@ -9,7 +9,7 @@ export default function AutoInvest() {
 
   const [isYesBefore, toggelanswer] = useState(false)
   useEffect(() => {
-    setBtnWidth(btnWidth + 16)
+    setBtnWidth(btnWidth + 20)
   }, [index])
   return (
     <div className="-mt-16 flex h-screen flex-col items-center justify-center">

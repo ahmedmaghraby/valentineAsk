@@ -4,13 +4,13 @@
 
 @layer components {
   .btn {
-    @apply px-4 py-2 font-bold text-white rounded;
+    @apply rounded px-4 py-2 text-xl font-bold text-white;
   }
   .btn-success {
-    @apply  bg-green-600 shadow-success/60 hover:bg-success;
+    @apply bg-green-600 shadow-success/60 hover:bg-success;
   }
   .btn-danger {
-    @apply  bg-danger hover:bg-red-700 shadow-danger/60;
+    @apply bg-danger shadow-danger/60 hover:bg-red-700;
   }
 }
 ::-webkit-scrollbar {
